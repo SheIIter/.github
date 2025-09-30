@@ -245,7 +245,7 @@ API 키가 없어도 기본적인 기능을 체험할 수 있습니다:
     <td><span style="white-space:nowrap; font-size:12px; font-weight:bold;">Project Manager & RAG Architect</span></td>
     <td><img src="./Image/somi.jpg" width="80" height="80" /></td>
     <td>
-      <a href="https://github.com/sommizzu">
+      <a href="https://github.com/1wos">
         <img src="https://img.shields.io/badge/-정소미-181717?logo=github&logoColor=white" />
       </a>
     </td>
